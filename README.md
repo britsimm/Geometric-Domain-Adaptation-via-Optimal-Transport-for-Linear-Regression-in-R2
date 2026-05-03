@@ -1,7 +1,7 @@
 # Geometric Domain Adaptation via Optimal Transport for Linear Regression in $\mathbb{R}^2$
 
 
-Code accompanying the paper *Geometric Domain Adaptation via Optimal Transport for Linear Regression in $\mathbb{R}^2$* on transferring linear
+Code accompanying the paper Geometric Domain Adaptation via Optimal Transport for Linear Regression in $\mathbb{R}^2$ on transferring linear
 regression between source and target domains using optimal transport.
 
 The method estimates a geometric transformation (rotation, translation, or

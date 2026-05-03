@@ -1,4 +1,5 @@
-# trans-ot-regression
+# Geometric Domain Adaptation via Optimal Transport for Linear Regression in $\mathbb{R}^2$
+
 
 Code accompanying the paper *Geometric Domain Adaptation via Optimal Transport for Linear Regression in $\mathbb{R}^2$* on transferring linear
 regression between source and target domains using optimal transport.

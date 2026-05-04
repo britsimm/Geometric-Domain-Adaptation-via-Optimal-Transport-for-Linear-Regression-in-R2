@@ -96,20 +96,6 @@ a_lft, b_lft = finetuned_regression(Xs, Xt)
 a_tl,  b_tl  = trans_lasso_regression(Xs, Xt)
 ```
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{britos2026geometric,
-  title   = {Geometric Domain Adaptation via Optimal Transport for Linear Regression in $\mathbb{R}^2$},
-  author  = {Britos, Brian and Bourel, Mathias},
-  journal = {Pattern Recognition Letters},
-  year    = {2026},
-  publisher = {Elsevier},
-  note    = {In press},
-}
-```
 
 
 ## License
